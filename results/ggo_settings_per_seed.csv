@@ -1,0 +1,151 @@
+map,agents,method,seed,throughput
+den312d,1200,Ours (earlier configuration),0,4.057
+den312d,1200,Ours (earlier configuration),1,4.174
+den312d,1200,Ours (earlier configuration),2,3.952
+den312d,1200,Ours (earlier configuration),3,4.052
+den312d,1200,Ours (earlier configuration),4,4.046
+den312d,1200,GGO (CMA-ES),0,4.992
+den312d,1200,GGO (CMA-ES),1,5.036
+den312d,1200,GGO (CMA-ES),2,4.981
+den312d,1200,GGO (CMA-ES),3,5.019
+den312d,1200,GGO (CMA-ES),4,5.028
+den312d,1200,GGO (PIU),0,4.890
+den312d,1200,GGO (PIU),1,4.853
+den312d,1200,GGO (PIU),2,4.791
+den312d,1200,GGO (PIU),3,4.755
+den312d,1200,GGO (PIU),4,4.851
+empty-48-48,1000,Ours (earlier configuration),0,22.318
+empty-48-48,1000,Ours (earlier configuration),1,22.717
+empty-48-48,1000,Ours (earlier configuration),2,22.449
+empty-48-48,1000,Ours (earlier configuration),3,22.706
+empty-48-48,1000,Ours (earlier configuration),4,22.305
+empty-48-48,1000,GGO (CMA-ES),0,24.025
+empty-48-48,1000,GGO (CMA-ES),1,24.137
+empty-48-48,1000,GGO (CMA-ES),2,24.026
+empty-48-48,1000,GGO (CMA-ES),3,24.085
+empty-48-48,1000,GGO (CMA-ES),4,23.990
+empty-48-48,1000,GGO (PIU),0,26.002
+empty-48-48,1000,GGO (PIU),1,25.928
+empty-48-48,1000,GGO (PIU),2,25.963
+empty-48-48,1000,GGO (PIU),3,25.951
+empty-48-48,1000,GGO (PIU),4,25.902
+maze-32-32-4,400,Crisscross,0,1.001
+maze-32-32-4,400,Crisscross,1,1.155
+maze-32-32-4,400,Crisscross,2,1.111
+maze-32-32-4,400,Crisscross,3,1.225
+maze-32-32-4,400,Crisscross,4,0.965
+maze-32-32-4,400,GGO (CMA-ES),0,0.943
+maze-32-32-4,400,GGO (CMA-ES),1,1.080
+maze-32-32-4,400,GGO (CMA-ES),2,1.448
+maze-32-32-4,400,GGO (CMA-ES),3,1.535
+maze-32-32-4,400,GGO (CMA-ES),4,1.072
+maze-32-32-4,400,GGO (PIU),0,1.247
+maze-32-32-4,400,GGO (PIU),1,1.457
+maze-32-32-4,400,GGO (PIU),2,1.431
+maze-32-32-4,400,GGO (PIU),3,1.598
+maze-32-32-4,400,GGO (PIU),4,1.488
+maze-32-32-4,400,Ours (training-free),0,1.146
+maze-32-32-4,400,Ours (training-free),1,1.151
+maze-32-32-4,400,Ours (training-free),2,1.225
+maze-32-32-4,400,Ours (training-free),3,1.300
+maze-32-32-4,400,Ours (training-free),4,1.065
+maze-32-32-4,400,PIBT (plain),0,0.887
+maze-32-32-4,400,PIBT (plain),1,1.168
+maze-32-32-4,400,PIBT (plain),2,1.189
+maze-32-32-4,400,PIBT (plain),3,1.261
+maze-32-32-4,400,PIBT (plain),4,1.110
+random-64-64-20,1500,Crisscross,0,7.928
+random-64-64-20,1500,Crisscross,1,7.756
+random-64-64-20,1500,Crisscross,2,7.542
+random-64-64-20,1500,Crisscross,3,7.440
+random-64-64-20,1500,Crisscross,4,8.372
+random-64-64-20,1500,GGO (CMA-ES),0,8.478
+random-64-64-20,1500,GGO (CMA-ES),1,9.018
+random-64-64-20,1500,GGO (CMA-ES),2,9.698
+random-64-64-20,1500,GGO (CMA-ES),3,9.217
+random-64-64-20,1500,GGO (CMA-ES),4,9.432
+random-64-64-20,1500,GGO (PIU),0,8.680
+random-64-64-20,1500,GGO (PIU),1,7.481
+random-64-64-20,1500,GGO (PIU),2,9.109
+random-64-64-20,1500,GGO (PIU),3,9.070
+random-64-64-20,1500,GGO (PIU),4,8.197
+random-64-64-20,1500,Ours (training-free),0,8.987
+random-64-64-20,1500,Ours (training-free),1,10.853
+random-64-64-20,1500,Ours (training-free),2,10.138
+random-64-64-20,1500,Ours (training-free),3,9.276
+random-64-64-20,1500,Ours (training-free),4,10.088
+random-64-64-20,1500,PIBT (plain),0,5.299
+random-64-64-20,1500,PIBT (plain),1,5.782
+random-64-64-20,1500,PIBT (plain),2,5.684
+random-64-64-20,1500,PIBT (plain),3,5.656
+random-64-64-20,1500,PIBT (plain),4,5.787
+room-64-64-8,1500,Crisscross,0,2.605
+room-64-64-8,1500,Crisscross,1,2.607
+room-64-64-8,1500,Crisscross,2,2.707
+room-64-64-8,1500,Crisscross,3,2.667
+room-64-64-8,1500,Crisscross,4,2.651
+room-64-64-8,1500,GGO (CMA-ES),0,3.117
+room-64-64-8,1500,GGO (CMA-ES),1,3.130
+room-64-64-8,1500,GGO (CMA-ES),2,3.053
+room-64-64-8,1500,GGO (CMA-ES),3,3.035
+room-64-64-8,1500,GGO (CMA-ES),4,3.175
+room-64-64-8,1500,GGO (PIU),0,2.913
+room-64-64-8,1500,GGO (PIU),1,3.038
+room-64-64-8,1500,GGO (PIU),2,2.961
+room-64-64-8,1500,GGO (PIU),3,3.223
+room-64-64-8,1500,GGO (PIU),4,3.253
+room-64-64-8,1500,Ours (training-free),0,2.867
+room-64-64-8,1500,Ours (training-free),1,2.886
+room-64-64-8,1500,Ours (training-free),2,2.902
+room-64-64-8,1500,Ours (training-free),3,2.931
+room-64-64-8,1500,Ours (training-free),4,2.906
+room-64-64-8,1500,PIBT (plain),0,2.405
+room-64-64-8,1500,PIBT (plain),1,2.461
+room-64-64-8,1500,PIBT (plain),2,2.517
+room-64-64-8,1500,PIBT (plain),3,2.524
+room-64-64-8,1500,PIBT (plain),4,2.524
+warehouse-33x36,150,Ours (earlier configuration),0,4.821
+warehouse-33x36,150,Ours (earlier configuration),1,4.817
+warehouse-33x36,150,Ours (earlier configuration),2,4.718
+warehouse-33x36,150,Ours (earlier configuration),3,4.751
+warehouse-33x36,150,Ours (earlier configuration),4,4.632
+warehouse-33x36,150,GGO (CMA-ES),0,4.771
+warehouse-33x36,150,GGO (CMA-ES),1,4.770
+warehouse-33x36,150,GGO (CMA-ES),2,4.718
+warehouse-33x36,150,GGO (CMA-ES),3,4.684
+warehouse-33x36,150,GGO (CMA-ES),4,4.710
+warehouse-33x36,150,GGO (PIU),0,4.814
+warehouse-33x36,150,GGO (PIU),1,4.807
+warehouse-33x36,150,GGO (PIU),2,4.756
+warehouse-33x36,150,GGO (PIU),3,4.713
+warehouse-33x36,150,GGO (PIU),4,4.727
+warehouse-33x36,220,Ours (earlier configuration),0,6.197
+warehouse-33x36,220,Ours (earlier configuration),1,6.316
+warehouse-33x36,220,Ours (earlier configuration),2,6.185
+warehouse-33x36,220,Ours (earlier configuration),3,6.133
+warehouse-33x36,220,Ours (earlier configuration),4,5.805
+warehouse-33x36,220,GGO (CMA-ES),0,6.408
+warehouse-33x36,220,GGO (CMA-ES),1,6.347
+warehouse-33x36,220,GGO (CMA-ES),2,6.354
+warehouse-33x36,220,GGO (CMA-ES),3,6.326
+warehouse-33x36,220,GGO (CMA-ES),4,6.310
+warehouse-33x36,220,GGO (PIU),0,6.436
+warehouse-33x36,220,GGO (PIU),1,6.459
+warehouse-33x36,220,GGO (PIU),2,6.395
+warehouse-33x36,220,GGO (PIU),3,6.374
+warehouse-33x36,220,GGO (PIU),4,6.329
+warehouse-33x36,400,Ours (earlier configuration),0,6.579
+warehouse-33x36,400,Ours (earlier configuration),1,6.890
+warehouse-33x36,400,Ours (earlier configuration),2,6.565
+warehouse-33x36,400,Ours (earlier configuration),3,6.993
+warehouse-33x36,400,Ours (earlier configuration),4,6.626
+warehouse-33x36,400,GGO (CMA-ES),0,7.747
+warehouse-33x36,400,GGO (CMA-ES),1,7.565
+warehouse-33x36,400,GGO (CMA-ES),2,7.565
+warehouse-33x36,400,GGO (CMA-ES),3,7.672
+warehouse-33x36,400,GGO (CMA-ES),4,7.580
+warehouse-33x36,400,GGO (PIU),0,7.288
+warehouse-33x36,400,GGO (PIU),1,7.269
+warehouse-33x36,400,GGO (PIU),2,7.156
+warehouse-33x36,400,GGO (PIU),3,7.231
+warehouse-33x36,400,GGO (PIU),4,7.167
