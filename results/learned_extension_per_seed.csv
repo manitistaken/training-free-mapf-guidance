@@ -1,0 +1,186 @@
+map,agents,method,priority rule,swap,seed,throughput
+den312d,1200,GGO (CMA-ES),GGO's rule,no,0,4.992
+den312d,1200,GGO (CMA-ES),GGO's rule,no,1,5.036
+den312d,1200,GGO (CMA-ES),GGO's rule,no,2,5.013
+den312d,1200,GGO (CMA-ES),GGO's rule,no,3,5.019
+den312d,1200,GGO (CMA-ES),GGO's rule,no,4,5.026
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,no,0,0.897
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,no,1,1.080
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,no,2,1.448
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,no,3,1.606
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,no,4,1.072
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,no,0,3.117
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,no,1,3.130
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,no,2,3.053
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,no,3,3.008
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,no,4,3.175
+den312d,1200,GGO (CMA-ES),GGO's rule,yes,0,4.869
+den312d,1200,GGO (CMA-ES),GGO's rule,yes,1,4.999
+den312d,1200,GGO (CMA-ES),GGO's rule,yes,2,4.970
+den312d,1200,GGO (CMA-ES),GGO's rule,yes,3,5.000
+den312d,1200,GGO (CMA-ES),GGO's rule,yes,4,4.920
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,yes,0,1.444
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,yes,1,0.947
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,yes,2,1.422
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,yes,3,1.507
+maze-32-32-4,400,GGO (CMA-ES),GGO's rule,yes,4,1.247
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,yes,0,2.901
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,yes,1,2.863
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,yes,2,2.297
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,yes,3,2.308
+room-64-64-8,1500,GGO (CMA-ES),GGO's rule,yes,4,2.627
+den312d,1200,GGO (CMA-ES),distance rule,no,0,5.180
+den312d,1200,GGO (CMA-ES),distance rule,no,1,5.072
+den312d,1200,GGO (CMA-ES),distance rule,no,2,5.050
+den312d,1200,GGO (CMA-ES),distance rule,no,3,5.047
+den312d,1200,GGO (CMA-ES),distance rule,no,4,5.099
+maze-32-32-4,400,GGO (CMA-ES),distance rule,no,0,1.229
+maze-32-32-4,400,GGO (CMA-ES),distance rule,no,1,1.402
+maze-32-32-4,400,GGO (CMA-ES),distance rule,no,2,1.401
+maze-32-32-4,400,GGO (CMA-ES),distance rule,no,3,1.461
+maze-32-32-4,400,GGO (CMA-ES),distance rule,no,4,1.254
+room-64-64-8,1500,GGO (CMA-ES),distance rule,no,0,3.257
+room-64-64-8,1500,GGO (CMA-ES),distance rule,no,1,3.420
+room-64-64-8,1500,GGO (CMA-ES),distance rule,no,2,3.372
+room-64-64-8,1500,GGO (CMA-ES),distance rule,no,3,3.422
+room-64-64-8,1500,GGO (CMA-ES),distance rule,no,4,3.399
+den312d,1200,GGO (CMA-ES),distance rule,yes,0,5.192
+den312d,1200,GGO (CMA-ES),distance rule,yes,1,5.094
+den312d,1200,GGO (CMA-ES),distance rule,yes,2,4.968
+den312d,1200,GGO (CMA-ES),distance rule,yes,3,5.135
+den312d,1200,GGO (CMA-ES),distance rule,yes,4,5.134
+maze-32-32-4,400,GGO (CMA-ES),distance rule,yes,0,1.276
+maze-32-32-4,400,GGO (CMA-ES),distance rule,yes,1,1.417
+maze-32-32-4,400,GGO (CMA-ES),distance rule,yes,2,1.355
+maze-32-32-4,400,GGO (CMA-ES),distance rule,yes,3,1.487
+maze-32-32-4,400,GGO (CMA-ES),distance rule,yes,4,1.291
+room-64-64-8,1500,GGO (CMA-ES),distance rule,yes,0,2.697
+room-64-64-8,1500,GGO (CMA-ES),distance rule,yes,1,3.016
+room-64-64-8,1500,GGO (CMA-ES),distance rule,yes,2,3.095
+room-64-64-8,1500,GGO (CMA-ES),distance rule,yes,3,2.753
+room-64-64-8,1500,GGO (CMA-ES),distance rule,yes,4,3.008
+den312d,1200,GGO (PIU),GGO's rule,no,0,4.858
+den312d,1200,GGO (PIU),GGO's rule,no,1,4.914
+den312d,1200,GGO (PIU),GGO's rule,no,2,4.829
+den312d,1200,GGO (PIU),GGO's rule,no,3,4.908
+den312d,1200,GGO (PIU),GGO's rule,no,4,4.819
+maze-32-32-4,400,GGO (PIU),GGO's rule,no,0,1.247
+maze-32-32-4,400,GGO (PIU),GGO's rule,no,1,1.457
+maze-32-32-4,400,GGO (PIU),GGO's rule,no,2,1.431
+maze-32-32-4,400,GGO (PIU),GGO's rule,no,3,1.645
+maze-32-32-4,400,GGO (PIU),GGO's rule,no,4,1.488
+room-64-64-8,1500,GGO (PIU),GGO's rule,no,0,2.669
+room-64-64-8,1500,GGO (PIU),GGO's rule,no,1,3.064
+room-64-64-8,1500,GGO (PIU),GGO's rule,no,2,3.156
+room-64-64-8,1500,GGO (PIU),GGO's rule,no,3,3.159
+room-64-64-8,1500,GGO (PIU),GGO's rule,no,4,3.252
+den312d,1200,GGO (PIU),GGO's rule,yes,0,4.899
+den312d,1200,GGO (PIU),GGO's rule,yes,1,4.956
+den312d,1200,GGO (PIU),GGO's rule,yes,2,4.881
+den312d,1200,GGO (PIU),GGO's rule,yes,3,4.829
+den312d,1200,GGO (PIU),GGO's rule,yes,4,4.862
+maze-32-32-4,400,GGO (PIU),GGO's rule,yes,0,1.348
+maze-32-32-4,400,GGO (PIU),GGO's rule,yes,1,1.464
+maze-32-32-4,400,GGO (PIU),GGO's rule,yes,2,1.427
+maze-32-32-4,400,GGO (PIU),GGO's rule,yes,3,1.556
+maze-32-32-4,400,GGO (PIU),GGO's rule,yes,4,1.421
+room-64-64-8,1500,GGO (PIU),GGO's rule,yes,0,2.476
+room-64-64-8,1500,GGO (PIU),GGO's rule,yes,1,2.671
+room-64-64-8,1500,GGO (PIU),GGO's rule,yes,2,2.546
+room-64-64-8,1500,GGO (PIU),GGO's rule,yes,3,2.434
+room-64-64-8,1500,GGO (PIU),GGO's rule,yes,4,2.357
+den312d,1200,GGO (PIU),distance rule,no,0,5.027
+den312d,1200,GGO (PIU),distance rule,no,1,4.976
+den312d,1200,GGO (PIU),distance rule,no,2,4.908
+den312d,1200,GGO (PIU),distance rule,no,3,4.987
+den312d,1200,GGO (PIU),distance rule,no,4,5.025
+maze-32-32-4,400,GGO (PIU),distance rule,no,0,1.307
+maze-32-32-4,400,GGO (PIU),distance rule,no,1,1.433
+maze-32-32-4,400,GGO (PIU),distance rule,no,2,1.405
+maze-32-32-4,400,GGO (PIU),distance rule,no,3,1.433
+maze-32-32-4,400,GGO (PIU),distance rule,no,4,1.312
+room-64-64-8,1500,GGO (PIU),distance rule,no,0,3.205
+room-64-64-8,1500,GGO (PIU),distance rule,no,1,3.155
+room-64-64-8,1500,GGO (PIU),distance rule,no,2,3.326
+room-64-64-8,1500,GGO (PIU),distance rule,no,3,3.375
+room-64-64-8,1500,GGO (PIU),distance rule,no,4,3.328
+den312d,1200,GGO (PIU),distance rule,yes,0,4.996
+den312d,1200,GGO (PIU),distance rule,yes,1,4.972
+den312d,1200,GGO (PIU),distance rule,yes,2,5.003
+den312d,1200,GGO (PIU),distance rule,yes,3,5.052
+den312d,1200,GGO (PIU),distance rule,yes,4,5.059
+maze-32-32-4,400,GGO (PIU),distance rule,yes,0,1.331
+maze-32-32-4,400,GGO (PIU),distance rule,yes,1,1.448
+maze-32-32-4,400,GGO (PIU),distance rule,yes,2,1.506
+maze-32-32-4,400,GGO (PIU),distance rule,yes,3,1.488
+maze-32-32-4,400,GGO (PIU),distance rule,yes,4,1.372
+room-64-64-8,1500,GGO (PIU),distance rule,yes,0,2.873
+room-64-64-8,1500,GGO (PIU),distance rule,yes,1,2.837
+room-64-64-8,1500,GGO (PIU),distance rule,yes,2,3.105
+room-64-64-8,1500,GGO (PIU),distance rule,yes,3,3.008
+room-64-64-8,1500,GGO (PIU),distance rule,yes,4,2.779
+den312d,1200,"Network-chosen agents, no network scoring",distance rule,yes,0,3.020
+den312d,1200,"Network-chosen agents, no network scoring",distance rule,yes,1,3.015
+den312d,1200,"Network-chosen agents, no network scoring",distance rule,yes,2,2.945
+den312d,1200,"Network-chosen agents, no network scoring",distance rule,yes,3,3.026
+den312d,1200,"Network-chosen agents, no network scoring",distance rule,yes,4,3.068
+maze-32-32-4,400,"Network-chosen agents, no network scoring",distance rule,yes,0,2.265
+maze-32-32-4,400,"Network-chosen agents, no network scoring",distance rule,yes,1,2.139
+maze-32-32-4,400,"Network-chosen agents, no network scoring",distance rule,yes,2,2.240
+maze-32-32-4,400,"Network-chosen agents, no network scoring",distance rule,yes,3,2.237
+maze-32-32-4,400,"Network-chosen agents, no network scoring",distance rule,yes,4,1.928
+room-64-64-8,1500,"Network-chosen agents, no network scoring",distance rule,yes,0,2.839
+room-64-64-8,1500,"Network-chosen agents, no network scoring",distance rule,yes,1,2.958
+room-64-64-8,1500,"Network-chosen agents, no network scoring",distance rule,yes,2,2.901
+room-64-64-8,1500,"Network-chosen agents, no network scoring",distance rule,yes,3,2.857
+room-64-64-8,1500,"Network-chosen agents, no network scoring",distance rule,yes,4,2.912
+den312d,1200,Learned (in progress),distance rule,yes,0,3.067
+den312d,1200,Learned (in progress),distance rule,yes,1,3.085
+den312d,1200,Learned (in progress),distance rule,yes,2,2.974
+den312d,1200,Learned (in progress),distance rule,yes,3,3.097
+den312d,1200,Learned (in progress),distance rule,yes,4,3.002
+maze-32-32-4,400,Learned (in progress),distance rule,yes,0,2.262
+maze-32-32-4,400,Learned (in progress),distance rule,yes,1,2.290
+maze-32-32-4,400,Learned (in progress),distance rule,yes,2,2.276
+maze-32-32-4,400,Learned (in progress),distance rule,yes,3,2.345
+maze-32-32-4,400,Learned (in progress),distance rule,yes,4,2.230
+room-64-64-8,1500,Learned (in progress),distance rule,yes,0,2.970
+room-64-64-8,1500,Learned (in progress),distance rule,yes,1,2.948
+room-64-64-8,1500,Learned (in progress),distance rule,yes,2,3.123
+room-64-64-8,1500,Learned (in progress),distance rule,yes,3,3.000
+room-64-64-8,1500,Learned (in progress),distance rule,yes,4,2.954
+den312d,1200,"Random agents, no network",distance rule,yes,0,3.106
+den312d,1200,"Random agents, no network",distance rule,yes,1,3.072
+den312d,1200,"Random agents, no network",distance rule,yes,2,3.116
+den312d,1200,"Random agents, no network",distance rule,yes,3,3.171
+den312d,1200,"Random agents, no network",distance rule,yes,4,3.047
+maze-32-32-4,400,"Random agents, no network",distance rule,yes,0,1.385
+maze-32-32-4,400,"Random agents, no network",distance rule,yes,1,1.801
+maze-32-32-4,400,"Random agents, no network",distance rule,yes,2,1.635
+maze-32-32-4,400,"Random agents, no network",distance rule,yes,3,1.781
+maze-32-32-4,400,"Random agents, no network",distance rule,yes,4,1.614
+room-64-64-8,1500,"Random agents, no network",distance rule,yes,0,2.930
+room-64-64-8,1500,"Random agents, no network",distance rule,yes,1,2.999
+room-64-64-8,1500,"Random agents, no network",distance rule,yes,2,2.964
+room-64-64-8,1500,"Random agents, no network",distance rule,yes,3,3.004
+room-64-64-8,1500,"Random agents, no network",distance rule,yes,4,3.004
+den312d,1200,PIBT (plain),distance rule,yes,0,2.817
+den312d,1200,PIBT (plain),distance rule,yes,1,2.759
+den312d,1200,PIBT (plain),distance rule,yes,2,2.622
+den312d,1200,PIBT (plain),distance rule,yes,3,2.716
+den312d,1200,PIBT (plain),distance rule,yes,4,2.776
+maze-32-32-4,400,PIBT (plain),distance rule,yes,0,1.276
+maze-32-32-4,400,PIBT (plain),distance rule,yes,1,1.314
+maze-32-32-4,400,PIBT (plain),distance rule,yes,2,1.528
+maze-32-32-4,400,PIBT (plain),distance rule,yes,3,1.355
+maze-32-32-4,400,PIBT (plain),distance rule,yes,4,1.271
+room-64-64-8,1500,PIBT (plain),distance rule,yes,0,2.851
+room-64-64-8,1500,PIBT (plain),distance rule,yes,1,2.855
+room-64-64-8,1500,PIBT (plain),distance rule,yes,2,2.904
+room-64-64-8,1500,PIBT (plain),distance rule,yes,3,2.933
+room-64-64-8,1500,PIBT (plain),distance rule,yes,4,2.918
+maze-32-32-4,400,WPPL (1 thread),-,-,0,1.295
+maze-32-32-4,400,WPPL (1 thread),-,-,1,1.387
+maze-32-32-4,400,WPPL (1 thread),-,-,2,1.396
+maze-32-32-4,400,WPPL (1 thread),-,-,3,1.458
+maze-32-32-4,400,WPPL (1 thread),-,-,4,1.251
