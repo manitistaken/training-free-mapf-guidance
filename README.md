@@ -8,9 +8,10 @@ Optimization (GGO) addresses this by optimizing the planner's edge weights offli
 agent count. This project guides the PIBT planner **without training**: there is no per-map or
 per-agent-count optimization, only one global parameter setting. Each robot reads two live signals
 computed from the current traffic, a smoothed map of where crowding is building up and a trail left by
-recent movement, and uses them to choose its route and its next move. In addition, a few small groups of
-robots that stand close together and head to the same area get right of way and travel in single file
-behind a leader, while the other robots make room. Traffic rules such as one-way lanes can **emerge**
+recent movement, and uses them to choose its route and its next move. In addition, the method forms a few
+**convoys**: a small group of nearby robots heading to the same area follows one leader in single file,
+along the leader's fixed shortest route. A convoy has right of way, the other robots make room for it,
+and it ends when the leader reaches its goal. Traffic rules such as one-way lanes can **emerge**
 from these signals instead of being designed by hand. An earlier version that used the movement trail
 alone (not the configuration in the table below; measured in early October 2026, before the repository
 was under version control) made the side aisles of the warehouse-33x36 map with 150 agents one-way (3
@@ -85,7 +86,7 @@ differ from the GGO paper. One parameter setting is used for every row of the ta
 chosen:** candidate settings for the two traffic signals came from a small search on separate seeds
 (100–102) of random-32-32-20 (400 agents), maze-32-32-4 (400) and room-64-64-8 (500). Two of these
 candidates had also been run on seeds 0–4 of random-64-64-20 and room-64-64-8 with 1500 agents before the
-choice between them. The group rule was developed on maze-32-32-4, warehouse-33x36 (400) and
+choice between them. The convoy rule was developed on maze-32-32-4, warehouse-33x36 (400) and
 room-64-64-8 (500), and the final combination was chosen on maze-32-32-4 alone, out of 9 combinations on
 seeds 200–201 (checked on 200–203). Seeds 0–4 were also used during development, so they are not a
 held-out test set; a held-out evaluation is planned. In Python my method is 3 to 12 times slower per
@@ -134,7 +135,7 @@ academic review: [manit.agarwal21@gmail.com](mailto:manit.agarwal21@gmail.com).
 **Code fingerprint.** The code and every result file behind this page are in my private repository
 at commit
 
-`8956b8ec2e4e66bb6d1d18026f9fba83efd87727`
+`653f3232fcf9b3043cdec5631764672ce0226cbe`
 
 A commit ID is a cryptographic hash that covers every tracked file in the repository and its full history,
 so changing any file would change it. The code at this commit passes the 15 short reference episodes in
